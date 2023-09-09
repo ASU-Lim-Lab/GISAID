@@ -14,7 +14,6 @@
 This repository contains files associated with projects involving the QuantStudio Absolute Q Digital PCR. 
 Current efforts involve detection of SARS-CoV-2 spike mutations that enable mAb resistance. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -41,8 +40,6 @@ Scripts are comatable with Python 3.9.14+, Pandas 2.0+, NumPy 1.24+.
   ```sh
   conda install numpy
   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
