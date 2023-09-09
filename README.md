@@ -11,8 +11,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-This repository contains files associated with projects involving the QuantStudio Absolute Q Digital PCR. 
-Current efforts involve detection of SARS-CoV-2 spike mutations that enable mAb resistance. 
+The purpose of this project was to track SARS-CoV-2 variatns across the stat of Arizona. This repository contains files used to extract variant data from GISAID outputs. 
 
 
 <!-- GETTING STARTED -->
